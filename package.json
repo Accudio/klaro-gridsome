@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Wrapper for Klaro! cookie consent manager for easy use in Gridsome projects",
   "main": "gridsome.client.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Accudio/klaro-gridsome.git"

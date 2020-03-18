@@ -1,6 +1,6 @@
 {
   "name": "klaro-gridsome",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for Klaro! cookie consent manager for easy use in Gridsome projects",
   "main": "gridsome.client.js",
   "repository": {

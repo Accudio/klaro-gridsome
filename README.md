@@ -120,6 +120,7 @@ Vue.use(VueAnalytics, {
 
 ## Version History
 
+- v1.0.1  - Removed redundant process.isClient check
 - v1.0.0  - Initial public release, based on Klaro v0.3.2
 
 ## Credits
